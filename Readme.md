@@ -1,8 +1,8 @@
-<img src="https://github.com/SteveBell/iCal-Classic-Page-Flip/raw/master/iCalClassicPageFlip/ical-classic-page-flip_Icon.png" style="float:right;width:100px;height:100px;" />
-
 iCal Classic Page Flip
 ======================
 The solution to Apples very slooow Page-Flip animation for monthly and yearly view in iCal 5.
+
+<img src="https://github.com/SteveBell/iCal-Classic-Page-Flip/raw/master/iCalClassicPageFlip/ical-classic-page-flip_screenshot.png" />
 
 Description
 -----------
