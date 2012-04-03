@@ -1,4 +1,4 @@
-<img src="https://github.com/SteveBell/Heise_TrollEx/raw/Bilder/Heise_TrollEx_Icon.png" style="float:right;width:100px;height:100px;" />
+<img src="https://github.com/SteveBell/iCal-Classic-Page-Flip/raw/master/iCalClassicPageFlip/ical-classic-page-flip_Icon.png" style="float:right;width:100px;height:100px;" />
 
 iCal Classic Page Flip
 ======================
