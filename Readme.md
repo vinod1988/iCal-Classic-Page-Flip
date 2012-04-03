@@ -1,3 +1,5 @@
+<img src="https://github.com/SteveBell/Heise_TrollEx/raw/Bilder/Heise_TrollEx_Icon.png" style="float:right;width:100px;height:100px;" />
+
 iCal Classic Page Flip
 ======================
 The solution to Apples very slooow Page-Flip animation for monthly and yearly view in iCal 5.
